@@ -1,0 +1,571 @@
+{
+  "data": {
+    "getReviews": {
+      "results": [
+        {
+          "title": "Did not receive",
+          "reviewText": "Did not receive and was denied a refund for my item.",
+          "rating": 1,
+          "badge": "",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "id": "252396197",
+          "incentivizedReviewLabel": null,
+          "likes": 0,
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "photos": [],
+          "submissionTime": "2026-07-02T08:02:44.000+00:00",
+          "totalComments": 0
+        },
+        {
+          "title": "Tearing of under arm",
+          "reviewText": "Damaged material , I went to the store less then 24 hours of buying the jacket and was turned away and told to reach out to customer service. Which I did and they have been little communication.",
+          "rating": 1,
+          "badge": "",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "6",
+            "weight": null,
+            "whatIsYourUsualSize": "6"
+          },
+          "id": "251958574",
+          "incentivizedReviewLabel": null,
+          "likes": 1,
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "photos": [
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/3a230cd2-8e13-55fb-b2ff-947974c58d80",
+              "id": 17525172,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/0ee3c260-14c8-50d1-a184-5a3716316377"
+            },
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/2cc07cee-f702-54cd-8c56-b610ebca5d25",
+              "id": 17525173,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/f2035310-e647-546e-9c26-1687b351aee2"
+            }
+          ],
+          "submissionTime": "2026-06-16T21:35:32.000+00:00",
+          "totalComments": 0
+        },
+        {
+          "title": "Fabric was not good",
+          "reviewText": "After 3 months of wearing, the fabric feel off.",
+          "rating": 1,
+          "badge": "",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": "ander1974"
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "14",
+            "weight": null,
+            "whatIsYourUsualSize": "12"
+          },
+          "id": "251692381",
+          "incentivizedReviewLabel": null,
+          "likes": 0,
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thank you for taking the time to share your feedback on the Define Jacket. We're sorry to hear the fabric did not hold up as expected after a few months of wear. We understand how disappointing that can be. Your feedback is incredibly valuable, and we'll be sure to share your comments with our product team. A follow-up email will be sent shortly to further assist and learn more about your experience. Thank you for sharing your feedback with us.",
+            "submissionTime": "2026-06-09T21:31:19.000+00:00"
+          },
+          "photos": [],
+          "submissionTime": "2026-06-09T20:49:28.000+00:00",
+          "totalComments": 0
+        },
+        {
+          "title": "Poor quality",
+          "reviewText": "Wore it one time and it has a bunch of little fuzzies on it already. I'm gonna return it.",
+          "rating": 1,
+          "badge": "",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "8",
+            "weight": null,
+            "whatIsYourUsualSize": "6"
+          },
+          "id": "251644192",
+          "incentivizedReviewLabel": null,
+          "likes": 0,
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "photos": [],
+          "submissionTime": "2026-06-08T02:50:00.000+00:00",
+          "totalComments": 0
+        },
+        {
+          "title": "Crap bad",
+          "reviewText": "Very bad customer service",
+          "rating": 1,
+          "badge": "",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "id": "251239531",
+          "incentivizedReviewLabel": null,
+          "likes": 0,
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "photos": [],
+          "submissionTime": "2026-06-04T03:19:44.000+00:00",
+          "totalComments": 0
+        },
+        {
+          "title": "Don’t purchase",
+          "reviewText": "Tried this on for my daughter who is tall and has bigger breast, I went up a size cause is was tight, got it home she tried it in and it fit to the tee.  Next day goes to put it on and it has a big huge hole in the pocket.  It came unthreaded well I called and talked to them and sense she wore it once or for maybe 4 hours they will not exchange it or give my money back it was $175 .",
+          "rating": 1,
+          "badge": "",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs a bit small",
+            "height": null,
+            "sizePurchased": "10",
+            "weight": null,
+            "whatIsYourUsualSize": "8"
+          },
+          "id": "251118106",
+          "incentivizedReviewLabel": null,
+          "likes": 1,
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "photos": [
+            {
+              "caption": "The day it was wore",
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/01f33dfa-5f5c-5b99-af12-c4f63d8125a2",
+              "id": 17383661,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/498859e5-9237-580f-bf29-1dab096c556a"
+            }
+          ],
+          "submissionTime": "2026-05-31T14:38:22.000+00:00",
+          "totalComments": 0
+        },
+        {
+          "title": "pulled after one wash.",
+          "reviewText": "Piled after one wash - not worth the money.",
+          "rating": 1,
+          "badge": "",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "6",
+            "weight": null,
+            "whatIsYourUsualSize": "6"
+          },
+          "id": "251032209",
+          "incentivizedReviewLabel": null,
+          "likes": 1,
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "We hear your Define Jacket pilled after one wash, and we know that's far from ideal. We'd love to learn more about your gear so we can better support you, so keep an eye on your email inbox.",
+            "submissionTime": "2026-05-28T18:43:59.000+00:00"
+          },
+          "photos": [],
+          "submissionTime": "2026-05-28T16:28:34.000+00:00",
+          "totalComments": 0
+        },
+        {
+          "title": "bad quality",
+          "reviewText": "ruined after 1 wear - pilling shows after 1 wash. very disappointed with the quality",
+          "rating": 1,
+          "badge": "",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": "4"
+          },
+          "id": "250949658",
+          "incentivizedReviewLabel": null,
+          "likes": 1,
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Quality and longevity matter—pilling isn't part of the experience we aim to create. We'd love to offer further support with your Define Jacket, so we emailed you directly to continue the conversation. Talk soon.",
+            "submissionTime": "2026-05-26T12:47:29.000+00:00"
+          },
+          "photos": [],
+          "submissionTime": "2026-05-26T05:52:44.000+00:00",
+          "totalComments": 0
+        },
+        {
+          "title": "So disappointed with fulfillment lately!",
+          "reviewText": "Sadly my jacket came with greased spots in multiple areas of the jacket. I was excited about the color and completely bummed at the condition. The package on the outside was greasy as well with finger prints etc and the jacket wasn’t in any kind of protective wrapping. The 4th item to arrive like this or similarly with spots/stains/or reattached this week.",
+          "rating": 1,
+          "badge": "",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": "lbrown1025"
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "10",
+            "weight": null,
+            "whatIsYourUsualSize": "10"
+          },
+          "id": "250856814",
+          "incentivizedReviewLabel": null,
+          "likes": 1,
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "This doesn’t align with the experience we aim to provide—we’d love to support you further with your order. We’ve reached out via email to continue the conversation. Talk soon.",
+            "submissionTime": "2026-05-24T12:28:35.000+00:00"
+          },
+          "photos": [
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/8dc4196f-d563-58e3-9011-3f2e73e20688",
+              "id": 17322503,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/8fe3f8ce-e63f-5320-9097-7bc434fa2acb"
+            },
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/03b41ef4-b0e1-520e-b962-7bb28098b231",
+              "id": 17322504,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/fd89dd4b-93ac-5f85-839e-30ff512e7d84"
+            },
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/089ab069-d0a6-547f-91a5-8ecbba5fada8",
+              "id": 17322505,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/c330b580-07a7-524a-bd6c-4642ab5f265e"
+            },
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/8621a6c5-dcd3-510e-9109-86c166d1d8cc",
+              "id": 17322506,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/c5d17756-23ca-5814-920a-c6d738f0c8fb"
+            }
+          ],
+          "submissionTime": "2026-05-23T03:07:43.000+00:00",
+          "totalComments": 0
+        },
+        {
+          "title": "Never restocking size 2???",
+          "reviewText": "Restock size 2 all the other ones are stocked EXCEPT 2",
+          "rating": 1,
+          "badge": "",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "2",
+            "weight": null,
+            "whatIsYourUsualSize": "2"
+          },
+          "id": "250852566",
+          "incentivizedReviewLabel": null,
+          "likes": 0,
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "We understand the interest in seeing size two more widely available across the lineup. While select colours may be in stock, availability can vary, so we recommend signing up for product notifications through our Email Sign Up page to stay closely informed as additional options are restocked.",
+            "submissionTime": "2026-05-23T12:36:10.000+00:00"
+          },
+          "photos": [],
+          "submissionTime": "2026-05-23T00:11:17.000+00:00",
+          "totalComments": 0
+        },
+        {
+          "title": "Must try on as sizing is inaccurate.",
+          "reviewText": "Item was way to small, even for a 14 year-old! And of course final sale.",
+          "rating": 1,
+          "badge": "",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": "4",
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "id": "250842423",
+          "incentivizedReviewLabel": null,
+          "likes": 1,
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for taking a moment to share your feedback with us. We hear that the Define Jacket felt too small, and if you ever have questions about fit or sizing or want to explore return options, you can connect with us through our Contact Us page and we'd be happy to help.",
+            "submissionTime": "2026-05-22T18:32:29.000+00:00"
+          },
+          "photos": [],
+          "submissionTime": "2026-05-22T17:46:16.000+00:00",
+          "totalComments": 0
+        },
+        {
+          "title": "Alteration no possible",
+          "reviewText": "A little disappointed that the store couldn’t shorten the sleeves of this product. There are many kids eager to wear this jacket but unfortunately. Looks like it isn’t possible to shorten the sleeve",
+          "rating": 1,
+          "badge": "",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs a bit large",
+            "height": null,
+            "sizePurchased": "6",
+            "weight": null,
+            "whatIsYourUsualSize": "6"
+          },
+          "id": "250602303",
+          "incentivizedReviewLabel": null,
+          "likes": 1,
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for taking the time to share this with the Define Jacket. We hear your thoughts around the sleeves not being able to be shortened and we appreciate you calling it out. Your feedback is important and helps guide our teams as they explore future design offerings.",
+            "submissionTime": "2026-05-15T12:13:01.000+00:00"
+          },
+          "photos": [],
+          "submissionTime": "2026-05-15T02:33:00.000+00:00",
+          "totalComments": 0
+        },
+        {
+          "title": "Terrible experience",
+          "reviewText": "I had a very bad shopping experience with an Asian woman who wore glasses and was around 160-170 I'm not sure . She wore a gold necklace, had double eyelids and had long black or dark brown hair. Seemed to be a manager and she was scheduling jobs to some shopping guides.",
+          "rating": 1,
+          "badge": "",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "id": "250521155",
+          "incentivizedReviewLabel": null,
+          "likes": 1,
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "photos": [],
+          "submissionTime": "2026-05-12T18:35:34.000+00:00",
+          "totalComments": 0
+        },
+        {
+          "title": "Terrible packaging, dirty, awful customer service",
+          "reviewText": "I ordered this (in white) for my daughter. Arrived April 7th but her birthday is May 6th, and when she opened it and tried it on, it was filthy. Down the side, on the sleeve!",
+          "rating": 1,
+          "badge": "Incentivized review",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "id": "250357412",
+          "incentivizedReviewLabel": "Received free product or lululemon affiliate",
+          "likes": 2,
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "photos": [],
+          "submissionTime": "2026-05-07T04:46:10.000+00:00",
+          "totalComments": 0
+        },
+        {
+          "title": "Size 2",
+          "reviewText": "RESTOCK IN SIZE 2 WHY IS THERE EVERY OPTION BUT IT?!!!!",
+          "rating": 1,
+          "badge": "",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "2",
+            "weight": null,
+            "whatIsYourUsualSize": "2"
+          },
+          "id": "250336132",
+          "incentivizedReviewLabel": null,
+          "likes": 0,
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "We hear you on the desire for a restock of the Define Jacket. Your feedback helps us to evolve and further improve our gear.",
+            "submissionTime": "2026-05-06T19:59:03.000+00:00"
+          },
+          "photos": [],
+          "submissionTime": "2026-05-06T16:53:58.000+00:00",
+          "totalComments": 0
+        },
+        {
+          "title": "Never got my package",
+          "reviewText": "Never got my package they won’t refund me",
+          "rating": 1,
+          "badge": "",
+          "comments": [],
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": "12",
+            "weight": null,
+            "whatIsYourUsualSize": "12"
+          },
+          "id": "250162695",
+          "incentivizedReviewLabel": null,
+          "likes": 0,
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "photos": [],
+          "submissionTime": "2026-05-01T23:57:37.000+00:00",
+          "totalComments": 0
+        }
+      ],
+      "totalResults": 5551,
+      "errors": [],
+      "hasAdditionalReviews": true,
+      "hasErrors": false,
+      "limit": 16,
+      "offset": 0,
+      "stats": {
+        "averageOverallRating": 4.626373626373627,
+        "features": [],
+        "fitsRating": {
+          "range": 5,
+          "label": "Fits true to size",
+          "rating": 2.858971711748916
+        },
+        "ratingDistribution": [
+          {
+            "numberOfResults": 4588,
+            "ratingValue": 5
+          },
+          {
+            "numberOfResults": 426,
+            "ratingValue": 4
+          },
+          {
+            "numberOfResults": 232,
+            "ratingValue": 1
+          },
+          {
+            "numberOfResults": 195,
+            "ratingValue": 3
+          },
+          {
+            "numberOfResults": 110,
+            "ratingValue": 2
+          }
+        ],
+        "totalReviewCount": 5551
+      }
+    }
+  }
+}

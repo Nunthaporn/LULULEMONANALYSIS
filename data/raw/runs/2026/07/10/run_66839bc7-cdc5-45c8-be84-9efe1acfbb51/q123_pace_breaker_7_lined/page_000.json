@@ -1,0 +1,558 @@
+{
+  "data": {
+    "getReviews": {
+      "results": [
+        {
+          "title": "Need Better Quality Control",
+          "reviewText": "Bought 4, exact same size & model, this one seems half a size bigger, poor quality control",
+          "rating": 1,
+          "badge": "",
+          "id": "252504959",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-07-06T20:26:14.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs large",
+            "height": null,
+            "sizePurchased": "Large",
+            "weight": null,
+            "whatIsYourUsualSize": "Large"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for bringing this to our attention—we aim to provide consistency across colours and styles. We'd love to help with your recent purchase and experience, so we emailed you to connect.",
+            "submissionTime": "2026-07-06T21:02:17.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Size marked wrong - final sale",
+          "reviewText": "Shorts were marked as 7” but when I got them home they were only 5”.  I bought them for my son so they weren’t tried on to realize that they were marked wrong.  They were from the outlet so final sale.",
+          "rating": 1,
+          "badge": "",
+          "id": "252117907",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-06-22T01:18:18.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": "XS - 7”",
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Low Rating Review",
+          "reviewText": "I'd recommend a different brand",
+          "rating": 1,
+          "badge": "",
+          "id": "251122623",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-05-31T18:46:20.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs a bit small",
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "We'd love to better understand your experience and help find gear that checks all the boxes. Connect with us via Live Chat or phone when visiting our Contact Us page.",
+            "submissionTime": "2026-05-31T19:42:43.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Liner not good wuality",
+          "reviewText": "I loved these shorts, but unfortunately, the inner liner gets worn out extremely quickly. I have only worn them max 20 times maybe and had them for just over a year, and there are holes throughout the material and now making it uncomfortable for wear since there is no longer material in certain areas. Not good. Would not recommend or buy again.",
+          "rating": 1,
+          "badge": "",
+          "id": "251122238",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-05-31T18:31:06.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "XXXL",
+            "weight": null,
+            "whatIsYourUsualSize": "XXXL"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Received wrong item",
+          "reviewText": "Received wrong item delivered",
+          "rating": 1,
+          "badge": "",
+          "id": "250809253",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-05-21T18:41:33.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Product was never received or refunded.",
+          "reviewText": "The product was never received, and customer support said that I wasnt eligible for a refund, so I ended up without the product and the money. They did not even bother to review the evidence or ask the shipping 3rd party company for the package status.",
+          "rating": 1,
+          "badge": "",
+          "id": "250749537",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-05-20T00:07:20.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": "L",
+            "weight": null,
+            "whatIsYourUsualSize": "M"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Remove anti theft device before shipping",
+          "reviewText": "Product is great, my problem is with the employee who packed the shorts. Still had anti theft tag on it!",
+          "rating": 1,
+          "badge": "",
+          "id": "250453248",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-05-10T11:05:46.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "XL",
+            "weight": null,
+            "whatIsYourUsualSize": "XL"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": [
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/13ab6f72-64d1-5f1e-9965-4b7093806e03",
+              "id": 17218409,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/b7ef0461-6b40-5d64-b4d9-3df96b349641"
+            }
+          ]
+        },
+        {
+          "title": "What happened to the stitching?",
+          "reviewText": "With my last pair, I trained hard 2-3x a week and they're still decent shape. With this pair, a bunch of the stitching is already ripped and missing from the waistband in the first week. \n\nI buy Lulu for quality but they missed the mark this time around.",
+          "rating": 1,
+          "badge": "",
+          "id": "250303525",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-05-05T22:06:41.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "S",
+            "weight": null,
+            "whatIsYourUsualSize": "S"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing this with us about the Pace Breaker Lined Short 7\". We hear you—this isn’t the quality we expect, and we’ll pass your feedback along to our team. An email will be sent to further assist you.",
+            "submissionTime": "2026-05-05T22:47:36.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Overpriced",
+          "reviewText": "Liner fabric tore the first time I tried putting my normal sized phone in the pocket",
+          "rating": 1,
+          "badge": "",
+          "id": "250148939",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-05-01T15:26:13.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs large",
+            "height": null,
+            "sizePurchased": "2XL",
+            "weight": null,
+            "whatIsYourUsualSize": "XL"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing your review with us. We hear that the liner of your Pace Breaker Lined Short 7\" tore the first time you tried putting your phone in the pocket, and we understand that's not ideal. We'd love to learn more about what's going on, so keep an eye on your email inbox.",
+            "submissionTime": "2026-05-01T16:19:44.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Not Recommended for Running",
+          "reviewText": "Not a great pair of running shorts. They are good for lounging around, but the liner is under engineered, and uncomfortable. Not enough room for what’s needed. \n\nAlso disappointed with the return policy. As a runner, it’s difficult to know how a product will do 10miles into a run when you can only try them on in store. Wish they had a specific return policy for activewear.",
+          "rating": 1,
+          "badge": "",
+          "id": "249260631",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-04T15:49:10.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "Medium",
+            "weight": null,
+            "whatIsYourUsualSize": "Medium"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for reviewing the Pace Breaker Lined Short 7\". We appreciate your feedback on the fit and liner. If you'd like help finding a pair that works better for you, feel free to connect with us through our Contact Us page—we'd be happy to support you.",
+            "submissionTime": "2026-04-04T16:32:30.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Piles",
+          "reviewText": "Pile everywhere - just like all their shorts.",
+          "rating": 1,
+          "badge": "",
+          "id": "248656423",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-09T23:36:58.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "Medium",
+            "weight": null,
+            "whatIsYourUsualSize": "Medium"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing your feedback for the Pace Breaker Lined Short 7\". We're so sorry to hear that your gear is pilling, and we'd love to hear more about this. We've sent you a follow-up email to carry on this conversation in more detail.",
+            "submissionTime": "2026-03-10T12:07:04.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Never shipped. Never received it. Will never buy L",
+          "reviewText": "Never shipped. Never received it. Will never buy LL again.",
+          "rating": 1,
+          "badge": "",
+          "id": "248562797",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-05T12:56:27.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "I would recommend another lined short…",
+          "reviewText": "I bought these about 8 months ago. I wear them once a week to the gym and for running. I washed and dried them like they said. I submitted something about a month or so ago to their customer team because the elastic was coming out and there were holes starting to form. The pictures are current and I was told that it’s normal for the liner to start getting holes in them like this. I’ve had Chubbies Shorts for about a year longer and they don’t have any signs of this. Buy another brand, not these.",
+          "rating": 1,
+          "badge": "",
+          "id": "248503664",
+          "likes": 1,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-02T14:36:39.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs a bit large",
+            "height": null,
+            "sizePurchased": "M",
+            "weight": null,
+            "whatIsYourUsualSize": "L"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for taking the time to share your experience—we’re sorry to hear about the wear you’ve noticed. The Pace Breaker Lined Short 7 is designed to support regular training and movement, so we understand how frustrating it can feel when durability doesn’t meet your expectations.",
+            "submissionTime": "2026-03-02T21:03:12.000+00:00"
+          },
+          "comments": [],
+          "photos": [
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/443d9563-34e3-54df-b6b7-37eabc6b7a12",
+              "id": 16488918,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/8c471dda-d003-5705-8b8b-d760cb1a09c8"
+            },
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/2886fb82-cb4f-5795-864d-5edbd8aa3560",
+              "id": 16488919,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/eab4043c-6186-5afa-98e7-858453456bb3"
+            },
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/9d3d3bc0-43a9-503d-a0bc-8a858a553712",
+              "id": 16488920,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/b1da1935-993f-59ef-809b-f5f0444850f4"
+            },
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/9fca3294-3d7e-5ec6-ae1f-819f6d313e61",
+              "id": 16488921,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/c7fe7143-3fb0-54cb-bae6-268d4c3bf279"
+            }
+          ]
+        },
+        {
+          "title": "Inside liner is cheaply madr",
+          "reviewText": "Shorts are made cheap, they rip and the longevity ain’t there.",
+          "rating": 1,
+          "badge": "",
+          "id": "248467805",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-02-28T16:19:28.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "We're always here to take a peek if the fabric isn't holding up. Thanks for sharing this feedback. For quick support you can drop by your local store or connect online via the Contact Us page.",
+            "submissionTime": "2026-02-28T17:03:08.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Waste of Money",
+          "reviewText": "These were the worst Lululemon product I’ve ever purchased. I’ve purchased lululemon athletic wear for almost 10 years and completely understand the delicate cleaning process. These shorts fell apart at the seams after the first wash. It feels like the newer products are getting cheaper and the customer service is getting worse.",
+          "rating": 1,
+          "badge": "",
+          "id": "247910913",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-02-04T16:05:47.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs a bit large",
+            "height": null,
+            "sizePurchased": "XXL",
+            "weight": null,
+            "whatIsYourUsualSize": "Depends on product"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing your honest feedback about these shorts—we hear your concerns about the quality and understand this isn't ideal. We're always happy to lend a hand with quality support in-store or via the Contact Us page online, please reach out for assistance.",
+            "submissionTime": "2026-02-04T17:48:12.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Lululemon is asking for review of an item that nev",
+          "reviewText": "This item never arrived at my home. You guys didn't submit the correct paperwork shipping it from Canada to US, so FedEx held it for a week and then shipped it back. I called multiple times and asked for a new shipment without success. And now you are asking, if I enjoy my new shorts. Hahaha. Good joke.",
+          "rating": 1,
+          "badge": "",
+          "id": "247410574",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-01-12T15:06:09.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": "XL",
+            "weight": null,
+            "whatIsYourUsualSize": "XL"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "We're so sorry to hear that you didn't receive your Pace Breaker Lined Short 7\", and we'd love to support you with this. When you have the chance, please feel free to reach out to our friends over at the Guest Education Centre (GEC) via Live Chat, or by phone at 1.877.263.9300 to continue the conversation.",
+            "submissionTime": "2026-01-12T17:03:03.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        }
+      ],
+      "totalResults": 945,
+      "errors": [],
+      "hasAdditionalReviews": true,
+      "hasErrors": false,
+      "limit": 16,
+      "offset": 0,
+      "stats": {
+        "averageOverallRating": 4.340740740740741,
+        "features": [],
+        "fitsRating": {
+          "range": 5,
+          "label": "Fits true to size",
+          "rating": 2.9885496183206106
+        },
+        "ratingDistribution": [
+          {
+            "numberOfResults": 709,
+            "ratingValue": 5
+          },
+          {
+            "numberOfResults": 93,
+            "ratingValue": 1
+          },
+          {
+            "numberOfResults": 69,
+            "ratingValue": 4
+          },
+          {
+            "numberOfResults": 40,
+            "ratingValue": 3
+          },
+          {
+            "numberOfResults": 34,
+            "ratingValue": 2
+          }
+        ],
+        "totalReviewCount": 945
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/lululemon-logo.png" />
+    <link rel="shortcut icon" type="image/png" href="/lululemon-logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>lululemon Voice of Guest – Quality Improvement Opportunity</title>
+  </head>
+  <body>
+    <script>
+      ;(function (location) {
+        if (location.search[1] === '/') {
+          const decoded = location.search
+            .slice(1)
+            .split('&')
+            .map((segment) => segment.replace(/~and~/g, '&'))
+            .join('?')
+
+          window.history.replaceState(null, '', location.pathname.slice(0, -1) + decoded + location.hash)
+        }
+      })(window.location)
+    </script>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

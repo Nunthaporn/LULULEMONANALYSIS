@@ -1,0 +1,27 @@
+{
+  "cutoff_date": "2026-05-27",
+  "total_reviews": 30,
+  "date_range": {
+    "min_source_created_at": "2026-05-27T00:15:05.000+00:00",
+    "max_source_created_at": "2026-07-08T21:47:46.000+00:00"
+  },
+  "by_product": [
+    {
+      "product_id": "define_jacket_nulu",
+      "product_name": "Define Jacket Nulu",
+      "review_count": 8
+    },
+    {
+      "product_id": "q123_pace_breaker_7_lined",
+      "product_name": "Q123 Pace Breaker 7\" Lined",
+      "review_count": 5
+    },
+    {
+      "product_id": "sp25_sculpt_tank_ft",
+      "product_name": "SP25 Sculpt Tank FT",
+      "review_count": 17
+    }
+  ],
+  "csv_path": "data\\processed\\new_reviews_since_2026-05-27.csv",
+  "json_path": "data\\processed\\new_reviews_since_2026-05-27.json"
+}

@@ -1,0 +1,554 @@
+{
+  "data": {
+    "getReviews": {
+      "results": [
+        {
+          "title": "Review",
+          "reviewText": "Color is different than what is pictured",
+          "rating": 1,
+          "badge": "",
+          "id": "248874275",
+          "likes": 3,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-19T15:10:53.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "12",
+            "weight": null,
+            "whatIsYourUsualSize": "10"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "We hear your feedback about the Define Jacket not matching the colour description that was expected, and we want to ensure there are no discrepancies when shopping our gear online. If you require any support with setting up an online return, you can reach out to us via Live Chat, or give us a call at 1.877.263.9300.",
+            "submissionTime": "2026-03-19T17:00:43.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Delivery issue",
+          "reviewText": "The item shipped 2/28/26 today is 3/16/26. It still has not arrived. I can’t find someone to talk to about this issue.",
+          "rating": 1,
+          "badge": "",
+          "id": "248812837",
+          "likes": 3,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-16T21:32:38.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing your experience with the Define Jacket. We’re sorry to hear your order hasn’t arrived yet and that you’ve had trouble reaching someone for help—that’s definitely frustrating. We appreciate you calling this out. If you’re able, connecting with our Guest Education Centre or live chat through the lululemon website or app can help the team look into the shipment and provide an update.",
+            "submissionTime": "2026-03-16T23:15:55.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "The park on the zipper broke after using it 2 time",
+          "reviewText": "The zipper broke after using it 2 times",
+          "rating": 1,
+          "badge": "",
+          "id": "248648446",
+          "likes": 4,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-09T17:59:05.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing your feedback for the Define Jacket. We're so sorry to hear that the zipper broke, and we'd love to hear more about this. We've sent you a follow-up email to carry on this conversation in more detail.",
+            "submissionTime": "2026-03-09T18:46:42.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "!",
+          "reviewText": "I initially fell in love with this set because I thought it was going to be like a teal color and I had I was looking for a nice spring summer jacket when I received a jacket the jacket was a forest green I do not believe I have to explain any further .",
+          "rating": 1,
+          "badge": "",
+          "id": "248628878",
+          "likes": 3,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-08T19:54:24.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "4",
+            "weight": null,
+            "whatIsYourUsualSize": "4"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": [
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/24edb74e-c4ed-5f18-934a-268018201f94",
+              "id": 16568465,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/67a8f825-6dec-500b-99c0-8a9e483050bd"
+            }
+          ]
+        },
+        {
+          "title": "Disappointed with purchase",
+          "reviewText": "Very disappointed with this purchase the zipper broke off after first wash and I did let it air dry.",
+          "rating": 1,
+          "badge": "",
+          "id": "248559730",
+          "likes": 3,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-05T05:52:32.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Not true color",
+          "reviewText": "I reached out to the company about the color not looking no where similar to the photo on the site and they brushed me off saying it’s the lighting I also received my item already opened and unfolded which has never happened when shopping with them and they basically said nothing",
+          "rating": 1,
+          "badge": "",
+          "id": "248532782",
+          "likes": 2,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-03T22:08:19.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "4",
+            "weight": null,
+            "whatIsYourUsualSize": "4"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": [
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/9b55eca4-34d0-55c4-b807-a3e432fbef07",
+              "id": 16511524,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/42b37588-196d-5b6f-b569-1f828952b0bb"
+            }
+          ]
+        },
+        {
+          "title": "2/10",
+          "reviewText": "I rate the color a 2/10 because it’s nowhere near the color that’s showing on the site I contacted them about it",
+          "rating": 1,
+          "badge": "",
+          "id": "248532713",
+          "likes": 3,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-03T22:04:55.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "4",
+            "weight": null,
+            "whatIsYourUsualSize": "4"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": [
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/8c8f3245-8ae6-5806-b163-edc26e5bbf43",
+              "id": 16511409,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/5a101607-f8da-50a8-95f5-283de5824e5c"
+            }
+          ]
+        },
+        {
+          "title": "Service bad",
+          "reviewText": "wont take back to change colors",
+          "rating": 1,
+          "badge": "",
+          "id": "248525026",
+          "likes": 1,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-03T14:25:52.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs a bit small",
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing your experience with us. We'd be happy to help explore return options with you—connect with us through our Contact Us page.",
+            "submissionTime": "2026-03-03T16:31:39.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "love",
+          "reviewText": "i loved my purchases , that’s why i’m always buying at lulu",
+          "rating": 1,
+          "badge": "Incentivized review",
+          "id": "248517320",
+          "likes": 1,
+          "incentivizedReviewLabel": "Received free product or lululemon affiliate",
+          "submissionTime": "2026-03-03T01:51:10.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Comfort and style that you can always count on.",
+            "submissionTime": "2026-03-03T13:03:41.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Just wasn’t it for me",
+          "reviewText": "Too thin & the zipper didn’t work had to fix it got stuck!  Also this location I purchased at the staff wasn’t helpful the person we checked out with rushed us! Anyways",
+          "rating": 1,
+          "badge": "",
+          "id": "248516210",
+          "likes": 2,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-03T00:54:34.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": "S"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for your feedback on the Define Jacket. We’re sorry to hear about the zipper issue and your store experience. Please keep an eye on your inbox—an email will be sent shortly to further assist you.",
+            "submissionTime": "2026-03-03T01:32:58.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Disappointed",
+          "reviewText": "Ordered this and came dirty then reordered and also came dirty! Staff was not apologetic and did not help much or care. Simply returned and got money back. Haven’t bought anything since.",
+          "rating": 1,
+          "badge": "",
+          "id": "248486191",
+          "likes": 2,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-01T15:47:41.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": "4-6"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Cute, but def not worth.",
+          "reviewText": "The quality on these jackets used to justify the price point and now it feels cheap. The colour is super cute and the fit is amazing however it does not justify the significant quality drop from years before.",
+          "rating": 1,
+          "badge": "",
+          "id": "248389172",
+          "likes": 4,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-02-25T00:42:55.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "2",
+            "weight": null,
+            "whatIsYourUsualSize": "2"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for taking the time to share this—we’re really glad to hear you’re loving the colour and fit, but we understand how disappointing it can feel when the quality doesn’t match your past experiences. The Define Jacket has gone through design and fabric evolutions over the years as we continue to innovate for comfort, performance, and feel, but long-lasting quality remains incredibly important to us.",
+            "submissionTime": "2026-02-25T01:17:01.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Layered look is terrible. Fabric clingy and tight.",
+          "reviewText": "When you layer this jacket of the matching tank or bralett it shows all the outlines of the seams.  I’m normally a size 8-10 and even the looser fit 12 size looked way too tight.",
+          "rating": 1,
+          "badge": "",
+          "id": "248143991",
+          "likes": 4,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-02-15T23:09:46.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": "12",
+            "weight": null,
+            "whatIsYourUsualSize": "10"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Your personal feedback is insightful—we suggest checking out our Define Jacket in Luon material. It provides a thicker feel that may help, so we suggest connecting with a Product Expert to chat about all things product personalized to you. Head to our Contact Us page to get started.",
+            "submissionTime": "2026-02-16T13:17:08.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Downgraded.",
+          "reviewText": "Why would lululemon remove the air vent in the back? It defeats the whole purpose of purchasing athletic wear. Am I just supposed to sweat through the back? Why wouldn’t you make two versions for customers that prefer the vent at the back? Why would you downgrade the design all together? You save material while the price keeps increasing. Makes no sense at all.",
+          "rating": 1,
+          "badge": "",
+          "id": "248136896",
+          "likes": 5,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-02-15T17:57:37.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": "inviolable"
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "4",
+            "weight": null,
+            "whatIsYourUsualSize": "4"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing your feedback so candidly. We hear how important that back vent feature was for you. Design details like ventilation can make a big difference in performance and comfort, especially in a piece meant to move with you.",
+            "submissionTime": "2026-02-15T18:31:45.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Not the same old Lulu",
+          "reviewText": "I've had several of these jackets over the years.  It was time to replace one.  The new version is made of thinner material and feels less luxurious than previous ones.  Truthfully, my 7 year old one felt thicker and more sturdy than the new one.  The hand slit in the sleeve has been repositioned to a horizontal, versus vertical, cut which is uncomfortable on my hand.  I returned the item because just wasn't as good as my previous purchases.",
+          "rating": 1,
+          "badge": "",
+          "id": "248088945",
+          "likes": 4,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-02-13T02:16:25.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": "8",
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing your review about this jacket. We hear your thoughts about the fit and feel and appreciate your feedback. Please know we're always working on elevating our gear and providing a better experience for you.",
+            "submissionTime": "2026-02-13T15:38:56.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Disappointed",
+          "reviewText": "I brought my lululemon and only wore it twice but the fabric is already peeling. For the price this quality is unacceptable. Never buying here agan",
+          "rating": 1,
+          "badge": "",
+          "id": "248069958",
+          "likes": 4,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-02-12T17:20:55.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "4",
+            "weight": null,
+            "whatIsYourUsualSize": "4"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing your experience with the Define Jacket. We understand how pilling after two wears isn't ideal, and we appreciate you for flagging this with us. This isn't the experience we aim to provide, and we'd love to support you—our team would be happy to help in store, check out our Quality Promise page to explore next steps online.",
+            "submissionTime": "2026-02-12T19:33:50.000+00:00"
+          },
+          "comments": [],
+          "photos": [
+            {
+              "caption": "U can already see the peeling and this is my second time wearing this",
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/03d83029-c1af-52f9-b764-c5e2e52d1e4b",
+              "id": 16321977,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/6c990fdd-0ac5-51a1-bb87-90a7cbb7cd27"
+            }
+          ]
+        }
+      ],
+      "totalResults": 5551,
+      "errors": [],
+      "hasAdditionalReviews": true,
+      "hasErrors": false,
+      "limit": 16,
+      "offset": 32,
+      "stats": {
+        "averageOverallRating": 4.626373626373627,
+        "features": [],
+        "fitsRating": {
+          "range": 5,
+          "label": "Fits true to size",
+          "rating": 2.858971711748916
+        },
+        "ratingDistribution": [
+          {
+            "numberOfResults": 4588,
+            "ratingValue": 5
+          },
+          {
+            "numberOfResults": 426,
+            "ratingValue": 4
+          },
+          {
+            "numberOfResults": 232,
+            "ratingValue": 1
+          },
+          {
+            "numberOfResults": 195,
+            "ratingValue": 3
+          },
+          {
+            "numberOfResults": 110,
+            "ratingValue": 2
+          }
+        ],
+        "totalReviewCount": 5551
+      }
+    }
+  }
+}

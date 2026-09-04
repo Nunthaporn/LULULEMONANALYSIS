@@ -1,0 +1,121 @@
+@import url('https://rsms.me/inter/inter.css');
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+
+  --bg: #ffffff;
+  --surface: #ffffff;
+  --surface-alt: #fafafa;
+  --surface-muted: #f5f5f5;
+
+  --ink: #000000;
+  --ink-secondary: #4a4a4a;
+  --muted: #767676;
+  --muted-soft: #a8a8a8;
+
+  --line: #e5e5e5;
+  --line-soft: #f0f0f0;
+
+  --red: #e20010;
+  --red-hover: #c4000e;
+  --red-soft: #ffe5e8;
+
+  --success: #1f6f3e;
+  --warning: #b35900;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--ink);
+  background: #fafafa;
+  font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-feature-settings: 'cv11', 'ss01', 'ss03';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+::selection {
+  background: var(--red);
+  color: #ffffff;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid rgba(226, 0, 16, 0.55);
+  outline-offset: 2px;
+}
+
+.brand-mark {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: lowercase;
+}
+
+.font-display {
+  font-family: 'Inter', 'Helvetica Neue', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border-width: 0 !important;
+}
+
+table.sr-only {
+  display: block !important;
+}
+
+.soft-card {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.035), 0 10px 30px rgba(0, 0, 0, 0.025);
+}
+
+.story-grid {
+  background: #ffffff;
+}
+
+.animate-rise {
+  animation: rise-in 0.5s ease-out both;
+}
+
+.animate-rise-delayed {
+  animation: rise-in 0.5s ease-out 0.08s both;
+}
+
+.animate-rise-late {
+  animation: rise-in 0.5s ease-out 0.16s both;
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

@@ -1,0 +1,539 @@
+{
+  "data": {
+    "getReviews": {
+      "results": [
+        {
+          "title": "Great Tank Top!",
+          "reviewText": "Great top! Love the material.",
+          "rating": 1,
+          "badge": "",
+          "id": "244039993",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-08-15T17:57:08.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Loved the fit but the quality is not there",
+          "reviewText": "I purchased this and loved it as soon as I tried it on. Then I took it for its maiden voyage - a 5 mile run. At the end of the run, I looked down and the material had a run in it. I hadn’t washed it, or done anything but run. When I reached out to lululemon they told me this was “normal wear and tear” and I could not exchange it for another. I have never had any other lululemon tops look like this after one run. If this is how this top looks so soon after purchasing it, it’s a no for me.",
+          "rating": 1,
+          "badge": "",
+          "id": "243237149",
+          "likes": 1,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-07-12T13:35:20.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": "onesweetjess"
+          },
+          "fitInformation": {
+            "fits": "Runs a bit large",
+            "height": null,
+            "sizePurchased": "8",
+            "weight": null,
+            "whatIsYourUsualSize": "8"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": [
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/a524e13c-e684-593d-b9a2-a56343a8687b",
+              "id": 14281950,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/495f55d7-02dc-5905-a5f6-1c44e2545fe3"
+            },
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/2486d906-7b23-52d1-9044-57912da6b59a",
+              "id": 14281951,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/73903bb9-7a16-5fc6-ba89-e7361d3aa887"
+            }
+          ]
+        },
+        {
+          "title": "What happened to sizes 16-20?",
+          "reviewText": "This top used to included sizes 16, 18 and 20. \nWhy discontinued?",
+          "rating": 1,
+          "badge": "",
+          "id": "242068427",
+          "likes": 1,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-05-20T23:09:15.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": "mel22"
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "14",
+            "weight": null,
+            "whatIsYourUsualSize": "14"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "We understand you'd like to see the Sculpt Tank Top Pleated offered in sizes 16-20 again. We’ve been working to improve our size range with various styles, and know our work still isn’t done. To be the first to know when additional sizes, styles, or colours may be added—be sure to sign up for product emails to be the first to know when items are restocked.",
+            "submissionTime": "2025-05-21T12:53:24.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Sloppy Order Fulfillment",
+          "reviewText": "Instead of this top I received 3 pairs of socks that I did not order",
+          "rating": 1,
+          "badge": "",
+          "id": "241991113",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-05-17T19:46:56.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": "LRC6"
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "14",
+            "weight": null,
+            "whatIsYourUsualSize": "14"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing your feedback with us.  We'd be happy to look into this further and see how we can support you. Feel free to reach out to our Guest Education Centre (GEC) by phone at 1-877-263-9300, email gec@lululemon.com, or start a chat with us on our website.",
+            "submissionTime": "2025-05-20T17:52:40.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Shipping issue",
+          "reviewText": "Arrived in a package that had holes and tears in it and almost looked burnt.  The shirt inside was not in a clear separate bag like normal so it had black marks on it.  Had to return for credit.  Otherwise, it was a great shirt.",
+          "rating": 1,
+          "badge": "",
+          "id": "241940504",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-05-15T11:16:32.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": "anne"
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": "8"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for taking the time to share your review with us. We're so sorry to hear that your gear arrived in less than ideal condition, and we truly appreciate you bringing this to our attention. We're glad you were able to get this item returned, and if you still require any support with your gear, please feel free to reach out via Live Chat, or by phone at 1.877.263.9300. Our team would be happy to assist you further.",
+            "submissionTime": "2025-05-15T13:26:19.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Great tank top!",
+          "reviewText": "Love the tank top. Great for summer.",
+          "rating": 1,
+          "badge": "Incentivized review",
+          "id": "241459943",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-04-21T23:13:08.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": "Angela"
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "6",
+            "weight": null,
+            "whatIsYourUsualSize": "6-8"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Fits cute but didn’t love the material",
+          "reviewText": "Tried on once and hardly wear makeup but the material must be sensitive to anything bc it showed sweat stains and makeup after only trying on ONE time!",
+          "rating": 1,
+          "badge": "Incentivized review",
+          "id": "241285458",
+          "likes": 1,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-04-14T14:20:48.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": "Jade"
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "S",
+            "weight": null,
+            "whatIsYourUsualSize": "Small-4-6"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing your thoughts—your feedback is important to us. We're always keen to hear how we can improve and enhance our gear for optimal wear and feel.",
+            "submissionTime": "2025-04-14T15:30:26.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "cute style and color but cut very large",
+          "reviewText": "This top didn't work for me. The blue color was very nice, but huge under the arms. It is going back unfortunately.",
+          "rating": 1,
+          "badge": "Incentivized review",
+          "id": "240838388",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-03-22T23:45:38.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": "Jessee"
+          },
+          "fitInformation": {
+            "fits": "Runs a bit large",
+            "height": null,
+            "sizePurchased": "medium",
+            "weight": null,
+            "whatIsYourUsualSize": "medium"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for taking the time to share your review for the Sculpt Tank Top Pleated. We hear that your gear didn't fit as expected, and we really appreciate you sharing this feedback with us. If you require any support with setting up an online return, you can reach out to us via Live Chat, or give us a call at 1.877.263.9300.",
+            "submissionTime": "2025-03-23T12:59:52.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Not a winner",
+          "reviewText": "This just isnt flattering in the least",
+          "rating": 1,
+          "badge": "Incentivized review",
+          "id": "239966707",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-02-22T22:00:55.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": "BirdNerd2014"
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "10",
+            "weight": null,
+            "whatIsYourUsualSize": "10"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Disappointing in Sizes",
+          "reviewText": "It’s disappointing to see so many great new colors in the Sculpt tank and they larger sizes are no longer offered. These are my staple shirt for the gym.  Please consider expanding your size run in the Sculpt tank like you had in previous versions.",
+          "rating": 1,
+          "badge": "",
+          "id": "239883015",
+          "likes": 6,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-02-18T22:27:03.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": "mollymm"
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "14",
+            "weight": null,
+            "whatIsYourUsualSize": "14"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing your honest feedback with us about the sizing in the Sculpt Tank Top. We understand that there’s still more work to do to include additional sizing options—we're currently working to expand our product assortment, and add additional sizing options in the future.",
+            "submissionTime": "2025-02-19T01:02:02.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Needs larger sizes.",
+          "reviewText": "Needs larger sizes. Very disappointed that No larger sizes available!",
+          "rating": 1,
+          "badge": "",
+          "id": "239722771",
+          "likes": 6,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-02-11T23:14:09.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": "bailey23"
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": "14"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing your honest feedback with us. We understand that there’s still more work to do to include additional sizing options—we're currently working to expand our product assortment, and add additional sizing options in the future.",
+            "submissionTime": "2025-02-12T00:19:49.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Feels like it’s choking me",
+          "reviewText": "Compared to the original sculpt tank with the open back. This new style feels like it’s choking me. Tighter around the neck and a bit shorter then the original one. Maybe I will size up next time.",
+          "rating": 2,
+          "badge": "",
+          "id": "252472815",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-07-05T18:21:17.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs small",
+            "height": null,
+            "sizePurchased": "8",
+            "weight": null,
+            "whatIsYourUsualSize": "8"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks so much for sharing this. We’re really sorry to hear the Sculpt Tank Top didn’t feel as comfortable as expected compared to the original style. It sounds like the fit through the neckline and length feels more restrictive than what you’re used to, especially coming from the open-back version. We understand how noticeable those changes can feel when you already love a previous design.",
+            "submissionTime": "2026-07-05T19:00:49.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Thin and poor quality",
+          "reviewText": "I really love the fit of these shirts and how incredibly comfortable they are, especially for the summer. However, the quality is really poor. I purchased two, one in white and one in lilac, and I was totally in love with them until they both snagged on the second or third wear. Mind you, all I’m doing is wearing them to go to Pilates and drive around doing errands so there is no reason for these to have snagged already. I am also washing them in a delicate cycle and air drying. Disappointed!",
+          "rating": 2,
+          "badge": "",
+          "id": "252360510",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-06-30T20:51:46.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "6",
+            "weight": null,
+            "whatIsYourUsualSize": "6"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing your experience with us—we love that this style delivers on fit and comfort. Quality concerns like snags aren't ideal and we'd love to offer support. We sent you an email to connect and continue the conversation.",
+            "submissionTime": "2026-06-30T21:34:46.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Sculpt tank top",
+          "reviewText": "It wasn’t a size large. It was a size XL. Also, it’s like wearing a very short dress for me at 5 foot two. I wish I’d known that. I can buy size large via Amazon and it doesn’t look like a mini skirt and it doesn’t look like a tent.",
+          "rating": 2,
+          "badge": "",
+          "id": "251629686",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-06-07T18:17:40.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "A classic style getting destroyed by design team !",
+          "reviewText": "I had been buying the Sculpt Tank top for last one decade . Honestly, I love the style as its light weight; sleeveless and can be worn  easily in the Texas weather for running , gym , dance . I have slight tummy and this is the only tank which is not clingy like a teen tank. \n\nBut last five years the design team has been continuously making changes to the classic tank ( do not understand why ) . First in 2019; they changed the fabric. Suddenly the fabric got very thin . I had to stop buying the white color as it was transparent . Next they added two pleat details at the back panel making it drape at the back. Now in 2026, they have again taken out the two pleats and got back to the original design. But this time still the fabric remains very thin. I have 5-6 versions of this tank over the years and still believe the original one back in 2015 was the best quality in terms of fit, fabric . Design team.. if u guys are reading my comments... please bring back the old fabric and stop playing with the design. Rather add more basic and pastel colours",
+          "rating": 2,
+          "badge": "",
+          "id": "250067456",
+          "likes": 2,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-28T19:02:49.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "14",
+            "weight": null,
+            "whatIsYourUsualSize": "14"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Enormous arm holes.",
+          "reviewText": "The fit of this tank is odd. The arm holes are way too big, even though I selected a M, when I should be L or XL. Not unwearable with a regular bra, but not what I was looking for with the top.",
+          "rating": 2,
+          "badge": "",
+          "id": "249463137",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-12T18:57:34.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs large",
+            "height": null,
+            "sizePurchased": "M",
+            "weight": null,
+            "whatIsYourUsualSize": "L"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "We’re sorry to hear the fit didn’t land the way you expected. The Sculpt Tank is designed with a more relaxed silhouette, but we hear you on the armholes feeling too large—that can definitely impact how it wears. Your feedback is super helpful as we continue to refine fit across styles.",
+            "submissionTime": "2026-04-12T19:35:50.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        }
+      ],
+      "totalResults": 644,
+      "errors": [],
+      "hasAdditionalReviews": true,
+      "hasErrors": false,
+      "limit": 16,
+      "offset": 16,
+      "stats": {
+        "averageOverallRating": 4.513975155279503,
+        "features": [],
+        "fitsRating": {
+          "range": 5,
+          "label": "Fits true to size",
+          "rating": 3.1611208406304727
+        },
+        "ratingDistribution": [
+          {
+            "numberOfResults": 497,
+            "ratingValue": 5
+          },
+          {
+            "numberOfResults": 60,
+            "ratingValue": 4
+          },
+          {
+            "numberOfResults": 35,
+            "ratingValue": 3
+          },
+          {
+            "numberOfResults": 27,
+            "ratingValue": 1
+          },
+          {
+            "numberOfResults": 25,
+            "ratingValue": 2
+          }
+        ],
+        "totalReviewCount": 644
+      }
+    }
+  }
+}

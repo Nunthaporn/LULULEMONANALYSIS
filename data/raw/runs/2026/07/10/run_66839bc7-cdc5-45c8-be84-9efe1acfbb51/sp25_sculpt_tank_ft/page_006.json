@@ -1,0 +1,526 @@
+{
+  "data": {
+    "getReviews": {
+      "results": [
+        {
+          "title": "Great tank with leggings highly recommend this !",
+          "reviewText": "Top good love color great fit !!!!",
+          "rating": 4,
+          "badge": "Sweat Collective member",
+          "id": "250569491",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-05-14T00:44:53.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Make it a Sculpt moment—on repeat.",
+            "submissionTime": "2026-05-14T14:42:33.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Almost perfect.",
+          "reviewText": "I bought 2, black and a very light blue. The black was perfect. The blue was longer in the front so I returned it.",
+          "rating": 4,
+          "badge": "",
+          "id": "249961776",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-25T10:29:50.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "8",
+            "weight": null,
+            "whatIsYourUsualSize": "Depends on the product"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Cool lightweight material",
+          "reviewText": "Super lightweight tank, great for RUNNING. I wish the collar was a slight scoop neck, but it is very lightweight and feels like you have nothing on.",
+          "rating": 4,
+          "badge": "Sweat Collective member",
+          "id": "249671057",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-18T10:49:03.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "4",
+            "weight": null,
+            "whatIsYourUsualSize": "Small"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for taking a moment to share your thoughts. We're glad to hear the Sculpt Tank Top feels super lightweight and great for running. We hear your feedback on wishing the collar had a slight scoop—fit preferences like this are always helpful for us to learn from. We appreciate you calling this out, as insights like yours help us take a closer look at design and overall feel.",
+            "submissionTime": "2026-04-18T13:37:48.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Nice Wardrobe Staple, But Odd Profile Shape",
+          "reviewText": "I own about 12 sculpt tank tops, purchased from the very first design to the current design. The 3 that I just purchased of this current design have a flattering fit across the chest and back, but I do not care for the A-line profile shape. Coming off of the bust the fabric flares out like a maternity top.",
+          "rating": 4,
+          "badge": "Sweat Collective member",
+          "id": "249463036",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-12T18:52:01.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": "Lulu Fan"
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thanks for sharing what you love about this style and also where we can make tweaks for a more streamlined fit–we're all ears.",
+            "submissionTime": "2026-04-12T19:38:31.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Neckline might be too high for some",
+          "reviewText": "Love the Prep Blue color and comfortable fit/flow of this top but scoop neckline is higher than I'd like and feels a bit restrictive.",
+          "rating": 4,
+          "badge": "",
+          "id": "249345341",
+          "likes": 1,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-08T01:45:43.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "4",
+            "weight": null,
+            "whatIsYourUsualSize": "4"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "We love a standout colour moment. The Sculpt Tank Top in Prep Blue sounds like a win for both comfort and flow. We hear you on the neckline, though—fit details like that can make all the difference in how a piece feels during movement. We appreciate you calling it out.",
+            "submissionTime": "2026-04-08T12:45:01.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Work out tank",
+          "reviewText": "Light weight fabric. Nice length for me at 5’8. Most tanks are too short. I recommend this tank.",
+          "rating": 4,
+          "badge": "",
+          "id": "249271920",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-05T00:48:30.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "6",
+            "weight": null,
+            "whatIsYourUsualSize": "6"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Cheers to finding a fit, feel, and style that's just right—you deserve it.",
+            "submissionTime": "2026-04-05T15:43:25.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Sculpt Tank",
+          "reviewText": "Sculpt tank is a great moisture-wicking top for hard workouts.",
+          "rating": 4,
+          "badge": "Sweat Collective member",
+          "id": "249029338",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-26T16:47:24.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": "Deaf1"
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Train hard and get sweaty with confidence—the tank top that's quick-drying, breathable, and ready when you are.",
+            "submissionTime": "2026-03-26T17:46:31.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Perfect fit",
+          "reviewText": "Nice red colour- fit around arms is great,  material is cool and breathes well.",
+          "rating": 4,
+          "badge": "",
+          "id": "248919669",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-21T20:51:26.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "6",
+            "weight": null,
+            "whatIsYourUsualSize": "6"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "We're thrilled to hear the Sculpt Tank Top is a perfect fit for you.",
+            "submissionTime": "2026-03-21T21:33:01.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "It’s ok",
+          "reviewText": "It’s a little long so I tie a knot on the side. I don’t love how low the arm holes go down. Material is a little thicker than I like.",
+          "rating": 4,
+          "badge": "Sweat Collective member",
+          "id": "247684757",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-01-24T19:35:29.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs a bit large",
+            "height": null,
+            "sizePurchased": "10, I’m big busted",
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Thank you for sharing your thoughts on the Sculpt Tank Top. We appreciate your feedback on the length, armhole cut, and fabric weight—this insight is helpful as we continue to improve fit and feel.",
+            "submissionTime": "2026-01-26T19:44:25.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Brokenhearted",
+          "reviewText": "Love the fit, but wish it came in bigger sizes. U have the leggings in bigger sizes but for some reason ,ur tops only go to a 14...so disappointing",
+          "rating": 4,
+          "badge": "",
+          "id": "246704350",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-12-17T03:20:44.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Your feedback on extended sizing is valuable to us—your input helps us shape what comes next for future drops and style designs.",
+            "submissionTime": "2025-12-17T13:21:15.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Flowy tank.",
+          "reviewText": "Very flowy.  Runs big so sized down but could have gone down one more.  Kind of see-thru but cute.  LOVE the high neckline for working out at the gym!",
+          "rating": 4,
+          "badge": "Sweat Collective member",
+          "id": "246672992",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-12-16T00:17:05.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs a bit large",
+            "height": null,
+            "sizePurchased": "6",
+            "weight": null,
+            "whatIsYourUsualSize": "8"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Workout tank top",
+          "reviewText": "I bought this shirt in the dark green and I do love the material. It’s very light for going to the gym.",
+          "rating": 4,
+          "badge": "",
+          "id": "246114352",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-11-24T19:32:28.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "12",
+            "weight": null,
+            "whatIsYourUsualSize": "12"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Great top",
+          "reviewText": "Great top, keeps you cool when exercising",
+          "rating": 4,
+          "badge": "",
+          "id": "245811520",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-11-11T14:28:54.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Awesome color but slightly clingy.",
+          "reviewText": "Beautiful color and cut, less drapey and a little more clingy than my past sculpt tanks, but still keeping.",
+          "rating": 4,
+          "badge": "Sweat Collective member",
+          "id": "245764138",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-11-09T12:25:03.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "12",
+            "weight": null,
+            "whatIsYourUsualSize": "12"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Bring back the older style sculpt tank",
+          "reviewText": "The older style sculpt tank is better. It flows better and stays in the right places.  This new style is stretchy and clings to my body sometimes. I don't care for it as much.",
+          "rating": 4,
+          "badge": "",
+          "id": "245501012",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-10-28T13:33:20.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "12",
+            "weight": null,
+            "whatIsYourUsualSize": "12"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Your feedback is important and we want you to love your gear. If you're having second thoughts about the Sculpt Tank Top, and your purchase was made within 30 days, connect with us in-store or online via our Contact Us page on our website.",
+            "submissionTime": "2025-10-28T16:27:09.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Flattering Fit",
+          "reviewText": "I love the shape of this top and how it feels: nice light fabric, but I wish it was more opaque.",
+          "rating": 4,
+          "badge": "",
+          "id": "245261367",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2025-10-16T15:00:24.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "Medium",
+            "weight": null,
+            "whatIsYourUsualSize": "Medium"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        }
+      ],
+      "totalResults": 644,
+      "errors": [],
+      "hasAdditionalReviews": true,
+      "hasErrors": false,
+      "limit": 16,
+      "offset": 96,
+      "stats": {
+        "averageOverallRating": 4.513975155279503,
+        "features": [],
+        "fitsRating": {
+          "range": 5,
+          "label": "Fits true to size",
+          "rating": 3.1611208406304727
+        },
+        "ratingDistribution": [
+          {
+            "numberOfResults": 497,
+            "ratingValue": 5
+          },
+          {
+            "numberOfResults": 60,
+            "ratingValue": 4
+          },
+          {
+            "numberOfResults": 35,
+            "ratingValue": 3
+          },
+          {
+            "numberOfResults": 27,
+            "ratingValue": 1
+          },
+          {
+            "numberOfResults": 25,
+            "ratingValue": 2
+          }
+        ],
+        "totalReviewCount": 644
+      }
+    }
+  }
+}

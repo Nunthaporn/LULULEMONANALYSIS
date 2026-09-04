@@ -1,0 +1,30 @@
+[
+  {
+    "product_name": "Define Jacket Nulu",
+    "product_id": "define_jacket_nulu",
+    "productNameId": "Define_Jacket_Nulu",
+    "product_url": "https://shop.lululemon.com/p/jackets-and-hoodies-jackets/Define-Jacket-Nulu/_/prod11020158?color=75697",
+    "category": "Jackets"
+  },
+  {
+    "product_name": "SP25 Sculpt Tank FT",
+    "product_id": "sp25_sculpt_tank_ft",
+    "productNameId": "Sculpt_Tank_Top",
+    "product_url": "https://shop.lululemon.com/p/women-tanks/Sculpt-Tank-Top/_/prod5020018?color=31382",
+    "category": "Women Tanks"
+  },
+  {
+    "product_name": "Pace Breaker Short 7\" Linerless",
+    "product_id": "pace_breaker_short_7_linerless",
+    "productNameId": "Pace_Breaker_Short_Linerless_7",
+    "product_url": "https://shop.lululemon.com/p/men-shorts/Pace-Breaker-Short-Linerless-7-Update/_/prod11400112?color=75671",
+    "category": "Mens Shorts"
+  },
+  {
+    "product_name": "Q123 Pace Breaker 7\" Lined",
+    "product_id": "q123_pace_breaker_7_lined",
+    "productNameId": "Pace_Breaker_Short_NF_7_Lined_Update",
+    "product_url": "https://shop.lululemon.com/p/men-shorts/Pace-Breaker-Short-NF-7-Lined-Update-MD/_/prod11784464?color=72756",
+    "category": "Mens Shorts"
+  }
+]

@@ -1,0 +1,79 @@
+﻿run_id,product_id,product_name,source_reported_total,canonical_total_before,new_reviews,updated_reviews,unchanged_reviews,canonical_total_after,difference_to_source,status,notes
+8b3a62d2-7303-4486-a445-64eafa744532,define_jacket_nulu,Define Jacket Nulu,10,2,1,1,1,3,-7,completed,
+8b3a62d2-7303-4486-a445-64eafa744532,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,completed,
+8b3a62d2-7303-4486-a445-64eafa744532,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,completed,
+8b3a62d2-7303-4486-a445-64eafa744532,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,completed,
+5bbc80f8-370f-4774-aac8-1d8b54dbaf49,define_jacket_nulu,Define Jacket Nulu,10,2,1,1,1,3,-7,completed,
+5bbc80f8-370f-4774-aac8-1d8b54dbaf49,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,completed,
+5bbc80f8-370f-4774-aac8-1d8b54dbaf49,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,completed,
+5bbc80f8-370f-4774-aac8-1d8b54dbaf49,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,completed,
+5bc19dba-12e1-44a0-a1e6-9aa96dd70a2f,define_jacket_nulu,Define Jacket Nulu,10,0,2,0,0,2,-8,completed,
+5bc19dba-12e1-44a0-a1e6-9aa96dd70a2f,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,completed,
+5bc19dba-12e1-44a0-a1e6-9aa96dd70a2f,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,completed,
+5bc19dba-12e1-44a0-a1e6-9aa96dd70a2f,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,completed,
+18a35e52-7576-41e7-9e89-52248aca5201,define_jacket_nulu,Define Jacket Nulu,10,0,2,0,0,2,-8,completed,
+18a35e52-7576-41e7-9e89-52248aca5201,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,completed,
+18a35e52-7576-41e7-9e89-52248aca5201,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,completed,
+18a35e52-7576-41e7-9e89-52248aca5201,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,completed,
+e575d2a8-e2e5-4667-a8da-726b7a068743,define_jacket_nulu,Define Jacket Nulu,10,2,0,0,2,2,-8,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
+e575d2a8-e2e5-4667-a8da-726b7a068743,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,completed,
+e575d2a8-e2e5-4667-a8da-726b7a068743,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,completed,
+e575d2a8-e2e5-4667-a8da-726b7a068743,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,completed,
+bcca91e4-f5cc-4684-a640-77db4ac687ba,define_jacket_nulu,Define Jacket Nulu,10,2,0,0,2,2,-8,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
+bcca91e4-f5cc-4684-a640-77db4ac687ba,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,completed,
+bcca91e4-f5cc-4684-a640-77db4ac687ba,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,completed,
+bcca91e4-f5cc-4684-a640-77db4ac687ba,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,completed,
+8d8f0bd1-7cd9-46eb-bfdd-32747d3ef9ea,define_jacket_nulu,Define Jacket Nulu,0,0,0,0,0,0,0,source_blocked,blocked
+34e3f963-eade-4f97-939c-a55463dee9c2,define_jacket_nulu,Define Jacket Nulu,0,0,0,0,0,0,0,source_blocked,blocked
+5caa82c6-8162-471e-9268-8449f611719e,define_jacket_nulu,Define Jacket Nulu,10,0,1,0,0,1,-9,completed,
+5caa82c6-8162-471e-9268-8449f611719e,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,completed,
+5caa82c6-8162-471e-9268-8449f611719e,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,completed,
+5caa82c6-8162-471e-9268-8449f611719e,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,completed,
+302bfd50-d281-4b8b-8c18-06d88acad153,define_jacket_nulu,Define Jacket Nulu,10,0,1,0,0,1,-9,completed,
+302bfd50-d281-4b8b-8c18-06d88acad153,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,completed,
+302bfd50-d281-4b8b-8c18-06d88acad153,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,completed,
+302bfd50-d281-4b8b-8c18-06d88acad153,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,completed,
+7ef56305-4113-4891-8ebe-5be4f55a6054,define_jacket_nulu,Define Jacket Nulu,1,0,1,0,0,1,0,completed,
+7ef56305-4113-4891-8ebe-5be4f55a6054,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,completed,
+7ef56305-4113-4891-8ebe-5be4f55a6054,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,completed,
+7ef56305-4113-4891-8ebe-5be4f55a6054,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,completed,
+619bbd18-e89c-4f5c-961d-82b507064fb5,define_jacket_nulu,Define Jacket Nulu,1,0,1,0,0,1,0,completed,
+619bbd18-e89c-4f5c-961d-82b507064fb5,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,completed,
+619bbd18-e89c-4f5c-961d-82b507064fb5,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,completed,
+619bbd18-e89c-4f5c-961d-82b507064fb5,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,completed,
+a2d60d07-1975-4b4b-b3dc-2ef9eb090b13,define_jacket_nulu,Define Jacket Nulu,0,0,0,0,0,0,0,failed,authorization=<redacted> cookie=<redacted>
+a2d60d07-1975-4b4b-b3dc-2ef9eb090b13,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,completed,
+a2d60d07-1975-4b4b-b3dc-2ef9eb090b13,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,completed,
+a2d60d07-1975-4b4b-b3dc-2ef9eb090b13,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,completed,
+ea9eec52-3130-426b-a63c-9760ae8eae43,define_jacket_nulu,Define Jacket Nulu,0,0,0,0,0,0,0,failed,authorization=<redacted> cookie=<redacted>
+ea9eec52-3130-426b-a63c-9760ae8eae43,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,completed,
+ea9eec52-3130-426b-a63c-9760ae8eae43,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,completed,
+ea9eec52-3130-426b-a63c-9760ae8eae43,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,completed,
+ca688bfa-07e8-4428-975a-ad26ba4378f5,define_jacket_nulu,Define Jacket Nulu,10,0,1,0,0,0,-10,completed,
+ca688bfa-07e8-4428-975a-ad26ba4378f5,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,completed,
+ca688bfa-07e8-4428-975a-ad26ba4378f5,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,completed,
+ca688bfa-07e8-4428-975a-ad26ba4378f5,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,completed,
+8ceaf63a-858c-48dd-922f-ba0d315be7b0,define_jacket_nulu,Define Jacket Nulu,10,0,1,0,0,0,-10,completed,
+8ceaf63a-858c-48dd-922f-ba0d315be7b0,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,completed,
+8ceaf63a-858c-48dd-922f-ba0d315be7b0,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,completed,
+8ceaf63a-858c-48dd-922f-ba0d315be7b0,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,completed,
+c4146f66-2b19-4ee8-a9d5-380dfd9be984,define_jacket_nulu,Define Jacket Nulu,0,5391,0,0,0,5391,5391,failed,Source returned HTTP 400 for the product request.
+c4146f66-2b19-4ee8-a9d5-380dfd9be984,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,565,0,0,0,565,565,failed,Source returned HTTP 400 for the product request.
+c4146f66-2b19-4ee8-a9d5-380dfd9be984,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,124,0,0,0,124,124,failed,Source returned HTTP 400 for the product request.
+c4146f66-2b19-4ee8-a9d5-380dfd9be984,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,903,0,0,0,903,903,failed,Source returned HTTP 400 for the product request.
+6ac95cf6-5291-4e59-8acd-9c00c721e8fa,define_jacket_nulu,Define Jacket Nulu,0,5391,0,0,0,5391,5391,skipped_cooldown,Skipped due to cooldown until 2026-07-10T09:52:00.912989+00:00.
+6ac95cf6-5291-4e59-8acd-9c00c721e8fa,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,565,0,0,0,565,565,skipped_cooldown,Skipped due to cooldown until 2026-07-10T09:52:01.330418+00:00.
+6ac95cf6-5291-4e59-8acd-9c00c721e8fa,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,124,0,0,0,124,124,skipped_cooldown,Skipped due to cooldown until 2026-07-10T09:52:01.726944+00:00.
+6ac95cf6-5291-4e59-8acd-9c00c721e8fa,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,903,0,0,0,903,903,skipped_cooldown,Skipped due to cooldown until 2026-07-10T09:52:02.095401+00:00.
+198cc365-8f10-4176-91eb-57626cb4792c,define_jacket_nulu,Define Jacket Nulu,5551,5391,7,0,41,5391,-160,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
+198cc365-8f10-4176-91eb-57626cb4792c,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,644,565,15,0,113,565,-79,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
+198cc365-8f10-4176-91eb-57626cb4792c,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",124,124,0,0,32,124,0,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
+198cc365-8f10-4176-91eb-57626cb4792c,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",945,903,4,0,44,903,-42,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
+65bb3663-6de9-49f1-929b-c1ea4df108b2,define_jacket_nulu,Define Jacket Nulu,5551,5391,7,0,41,5391,-160,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
+65bb3663-6de9-49f1-929b-c1ea4df108b2,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,644,565,15,0,113,565,-79,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
+65bb3663-6de9-49f1-929b-c1ea4df108b2,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",124,124,0,0,32,124,0,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
+65bb3663-6de9-49f1-929b-c1ea4df108b2,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",945,903,4,0,44,903,-42,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
+66839bc7-cdc5-45c8-be84-9efe1acfbb51,define_jacket_nulu,Define Jacket Nulu,5551,5391,7,0,41,5398,-153,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
+66839bc7-cdc5-45c8-be84-9efe1acfbb51,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,644,565,15,0,113,580,-64,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
+66839bc7-cdc5-45c8-be84-9efe1acfbb51,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",124,124,0,0,32,124,0,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
+66839bc7-cdc5-45c8-be84-9efe1acfbb51,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",945,903,4,0,44,907,-38,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."

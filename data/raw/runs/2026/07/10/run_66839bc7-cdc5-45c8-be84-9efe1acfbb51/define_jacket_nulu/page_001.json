@@ -1,0 +1,616 @@
+{
+  "data": {
+    "getReviews": {
+      "results": [
+        {
+          "title": "Stained",
+          "reviewText": "Was shipped with a stain on the collar",
+          "rating": 1,
+          "badge": "",
+          "id": "250149820",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-05-01T16:10:50.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs a bit small",
+            "height": null,
+            "sizePurchased": "6",
+            "weight": null,
+            "whatIsYourUsualSize": "6"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "This isn't the experience we want for our gear to arrive in. Thanks for bringing this to our attention—we'll be reaching out by email soon.",
+            "submissionTime": "2026-05-01T16:53:53.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "DO NOT BUY WALNUT CRUNCH WITHOUT CHECKING IN STORE",
+          "reviewText": "This was my 5th set in the last 30 days but now I’ll never buy lulu again. The walnut crunch define jacket and leggings are completely different colors (leggings are basically olive and the top is a pure brown) but because I already took the tag off (I assumed they would be perfect like my other sets and immediately ripped the tags) they refuse to refund or exchange.",
+          "rating": 1,
+          "badge": "",
+          "id": "250111296",
+          "likes": 2,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-30T10:35:13.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "8",
+            "weight": null,
+            "whatIsYourUsualSize": "6/8"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": [
+            {
+              "caption": "Mismatch with walnut crunch top and bottom that their website recommended as a set",
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/73d0e602-5b44-5d66-9963-8ced3e52bbc6",
+              "id": 17129494,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/b6623e94-693e-5267-9400-99acb45380ee"
+            },
+            {
+              "caption": "Known issue that they’re ignoring",
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/3e924724-564c-50a0-b22b-6436761691cc",
+              "id": 17129495,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/bf5255f8-4174-57ad-ae32-3490039a5525"
+            }
+          ]
+        },
+        {
+          "title": "I filed for a return and they didn’t accept it",
+          "reviewText": "Horrible there’s so much lint I’ve only air dried and it still happened",
+          "rating": 1,
+          "badge": "",
+          "id": "250091466",
+          "likes": 0,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-29T16:50:14.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs a bit large",
+            "height": null,
+            "sizePurchased": null,
+            "weight": null,
+            "whatIsYourUsualSize": null
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Poor quality - better buying a knock off",
+          "reviewText": "Product started to pill with one time wear, for the amount paid quality could be better. Absolute poor quality",
+          "rating": 1,
+          "badge": "",
+          "id": "250056587",
+          "likes": 2,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-28T12:03:15.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "4",
+            "weight": null,
+            "whatIsYourUsualSize": "4"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "That’s not the experience we hope to create, and we’d love to support you further. We’ve sent an email to connect and continue the conversation. Talk soon.",
+            "submissionTime": "2026-04-29T12:22:40.000+00:00"
+          },
+          "comments": [],
+          "photos": [
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/75fae65f-4a01-5e56-87a3-762aabcb48c0",
+              "id": 17113581,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/88b93f6c-d112-50c9-a3df-0412ed2a84d6"
+            }
+          ]
+        },
+        {
+          "title": "Bled everywhere",
+          "reviewText": "I had very high hopes for this slacker. I ordered the matching set, of course. It bled on all of my laundry and ruined so many items. I regret purchasing. I thought your items were supposedly pre washed, but for the look of things, they aren’t. I lost so much money with this purchase.",
+          "rating": 1,
+          "badge": "",
+          "id": "249653056",
+          "likes": 4,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-17T14:44:28.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "8",
+            "weight": null,
+            "whatIsYourUsualSize": "8"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "This certainly isn't the experience we want for you, and we'd love to learn more. To get connected, visit your local store, or connect with us through our Contact Us page.",
+            "submissionTime": "2026-04-17T16:36:14.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Jacket",
+          "reviewText": "Bad quality came\nRipped not cool",
+          "rating": 1,
+          "badge": "",
+          "id": "249468801",
+          "likes": 1,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-13T00:26:31.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "Medium",
+            "weight": null,
+            "whatIsYourUsualSize": "Small"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "don't get the nulu",
+          "reviewText": "jacket fits great but pills after 2 washes",
+          "rating": 1,
+          "badge": "",
+          "id": "249449375",
+          "likes": 1,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-12T00:42:34.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs a bit large",
+            "height": null,
+            "sizePurchased": "4",
+            "weight": null,
+            "whatIsYourUsualSize": "4"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Pilling is part of the experience we strive to deliver, so we sent you a follow-up email. It includes net best steps when it comes to your gear and experience—talk soon.",
+            "submissionTime": "2026-04-12T13:41:56.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "I washed it one time in gentle dry hung",
+          "reviewText": "I am very disappointed and for the price, I wore it once and it has fuzz balls on the sleeves like it’s been worn several of times.",
+          "rating": 1,
+          "badge": "",
+          "id": "249279306",
+          "likes": 1,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-05T10:44:15.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": "14",
+            "weight": null,
+            "whatIsYourUsualSize": "14"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "Quality concerns like pilling don't sit well with us—we'd love to offer further support with your order and experience. We emailed you directly to continue the conversation. Talk soon.",
+            "submissionTime": "2026-04-05T13:57:20.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Dissatisfied",
+          "reviewText": "Have been a loyal customer. However, this purchase is trash , the jacket was thrown in a shipping package no wrapping. The jacket is clearly dirty with makeup stains on the front. Very disappointing",
+          "rating": 1,
+          "badge": "",
+          "id": "249218877",
+          "likes": 3,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-04-02T20:24:49.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "14",
+            "weight": null,
+            "whatIsYourUsualSize": "14"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "We hear you—receiving your Define Jacket in this condition isn't the experience we strive for. This falls shorts of our quality standards, and we'd like to learn more. Please keep an eye on your inbox as we follow up shortly.",
+            "submissionTime": "2026-04-03T12:17:01.000+00:00"
+          },
+          "comments": [],
+          "photos": [
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/be28f0be-15fc-5449-87a7-5e313c4c6c0e",
+              "id": 16850920,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/a70694bc-8f2c-5ad9-9b88-6c8e433e827a"
+            },
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/dbe22090-0cd7-5c50-b22a-227db4934222",
+              "id": 16850921,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/bf487be8-add9-5beb-af59-afe8644e6f75"
+            }
+          ]
+        },
+        {
+          "title": "Color difference from image",
+          "reviewText": "I ordered this expecting a pink color as pictured in the image but instead it looks more like a light purple. I am very disappointed!",
+          "rating": 1,
+          "badge": "",
+          "id": "249096011",
+          "likes": 1,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-29T16:13:18.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "14",
+            "weight": null,
+            "whatIsYourUsualSize": "14"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "We appreciate you taking the time to share your experience with the Define Jacket. We’re sorry to hear the colour appeared differently than expected, and we’ll share your feedback with our team.",
+            "submissionTime": "2026-03-29T18:18:54.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Porcelain pink is not pink",
+          "reviewText": "I ordered porcelain pink, it’s not pink it’s light purple and it also looks nothing like any of the photos that are posted",
+          "rating": 1,
+          "badge": "",
+          "id": "249088452",
+          "likes": 2,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-29T04:50:09.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "4",
+            "weight": null,
+            "whatIsYourUsualSize": "Small/medium"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": [
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/e38a7856-8b0d-5f00-b89e-bd6c9ce8219e",
+              "id": 16803634,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/b93a589f-da7d-5eb7-8432-f6f16e2417b6"
+            }
+          ]
+        },
+        {
+          "title": "$130  don’t",
+          "reviewText": "It's not worth $130.00; the fabric is very cheap.  I am very disappointed",
+          "rating": 1,
+          "badge": "",
+          "id": "249067280",
+          "likes": 1,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-28T04:38:54.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "6",
+            "weight": null,
+            "whatIsYourUsualSize": "0"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "We appreciate you sharing your experience with this jacket. Please know we're always here to assist with quality concerns in-store or online via the Contact Us page—we'd love to hear more about your experience.",
+            "submissionTime": "2026-03-28T12:28:31.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Recieved broken product",
+          "reviewText": "See attached photos for reference; I contacted customer service via email, got one response, I replied by sending them photos in the follow up email, but no response afterwards. It’s almost been a week. \n\nI’ve sent another follow up email, again, no response.\n\nThe broken zipper does not work at all. I will reconsider if I would like to continue my future purchase with Lulu or switch to another brand.",
+          "rating": 1,
+          "badge": "",
+          "id": "248998023",
+          "likes": 2,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-25T03:14:19.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "14",
+            "weight": null,
+            "whatIsYourUsualSize": "14"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": [
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/f785e0f7-0fea-5e58-a63a-db29fe4f046f",
+              "id": 16762787,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/440c23dc-00ec-5ff5-8ae1-1e7f8a932cc5"
+            },
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/967af897-cdaa-5652-b4ed-6c3558ffd5ee",
+              "id": 16762788,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/33267599-921e-5f9a-b5aa-0abe4479f25f"
+            },
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/a686972d-c50f-5316-b19b-8543462c6107",
+              "id": 16762789,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/6d82d4f5-eaf7-5918-a6dd-37c18c9a4aa3"
+            }
+          ]
+        },
+        {
+          "title": "Wish I could accurately review product.",
+          "reviewText": "Website said order would be filled. Got a tracking number. Said order was shipped. Had delivery date. Then delivery date kept being pushed back. And then package was marked as lost. While Lulu was great with refunding my purchase, I really just wanted the jacket in this color.",
+          "rating": 1,
+          "badge": "Sweat Collective member",
+          "id": "248984658",
+          "likes": 3,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-24T16:12:19.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": null,
+            "height": null,
+            "sizePurchased": "14",
+            "weight": null,
+            "whatIsYourUsualSize": "14"
+          },
+          "luluResponse": {
+            "nickName": "Guest Education Centre (GEC)",
+            "responseText": "We care about your experience and appreciate the honest feedback. We suggest signing up for product notifications—you'll be first to know about restocks.",
+            "submissionTime": "2026-03-24T17:49:28.000+00:00"
+          },
+          "comments": [],
+          "photos": []
+        },
+        {
+          "title": "Horrible material",
+          "reviewText": "Washed my jacket twice and it looks like it’s 5 years old. Washed it accordingly, on delicate with all of my lulu stuff no drying",
+          "rating": 1,
+          "badge": "",
+          "id": "248976409",
+          "likes": 2,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-24T04:26:57.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "True to size",
+            "height": null,
+            "sizePurchased": "8",
+            "weight": null,
+            "whatIsYourUsualSize": "8"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": [
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/227177a2-2393-5866-bbde-943ea415185e",
+              "id": 16752919,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/ae075863-33c2-51af-ad3a-a56dea20c653"
+            },
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/6d970a1b-625e-5a7d-b996-7534ccd6f8b2",
+              "id": 16752920,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/a079d70e-0300-5707-8693-1ca64f37198a"
+            },
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/40756040-b4f9-571d-b425-5efb7d7487b3",
+              "id": 16752921,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/47d9d084-1838-5086-8dce-1f07f53e0ad3"
+            },
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/b3618384-8318-5078-a727-850dd16d8d11",
+              "id": 16752922,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/cf4e5a46-b7a5-5513-805e-a4309f7b6054"
+            },
+            {
+              "caption": null,
+              "thumbnail": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/48e718e1-e54a-5327-998a-a754b83c6355",
+              "id": 16752923,
+              "url": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86bHVsdWxlbW9u/75fc42d3-0712-57df-9866-53536adf9db5"
+            }
+          ]
+        },
+        {
+          "title": "Wrong color",
+          "reviewText": "The color is completely misleading. The real color is dirty, muddy and darker. Really bad color! Very very disappointed!",
+          "rating": 1,
+          "badge": "",
+          "id": "248903496",
+          "likes": 2,
+          "incentivizedReviewLabel": null,
+          "submissionTime": "2026-03-20T21:26:34.000+00:00",
+          "totalComments": 0,
+          "contributor": {
+            "isStaff": false,
+            "isVerifiedBuyer": false,
+            "nickName": null
+          },
+          "fitInformation": {
+            "fits": "Runs a bit small",
+            "height": null,
+            "sizePurchased": "12",
+            "weight": null,
+            "whatIsYourUsualSize": "12"
+          },
+          "luluResponse": {
+            "nickName": null,
+            "responseText": null,
+            "submissionTime": null
+          },
+          "comments": [],
+          "photos": []
+        }
+      ],
+      "totalResults": 5551,
+      "errors": [],
+      "hasAdditionalReviews": true,
+      "hasErrors": false,
+      "limit": 16,
+      "offset": 16,
+      "stats": {
+        "averageOverallRating": 4.626373626373627,
+        "features": [],
+        "fitsRating": {
+          "range": 5,
+          "label": "Fits true to size",
+          "rating": 2.858971711748916
+        },
+        "ratingDistribution": [
+          {
+            "numberOfResults": 4588,
+            "ratingValue": 5
+          },
+          {
+            "numberOfResults": 426,
+            "ratingValue": 4
+          },
+          {
+            "numberOfResults": 232,
+            "ratingValue": 1
+          },
+          {
+            "numberOfResults": 195,
+            "ratingValue": 3
+          },
+          {
+            "numberOfResults": 110,
+            "ratingValue": 2
+          }
+        ],
+        "totalReviewCount": 5551
+      }
+    }
+  }
+}

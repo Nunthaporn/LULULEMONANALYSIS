@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Lululemon Voice of Guest – Quality Improvement Opportunity</title>
+    <script>
+      const currentLocation = window.location
+      const segments = currentLocation.pathname.split('/').filter(Boolean)
+      const repositoryName = segments[0] || 'LululemonAnalytics'
+      const routePath = segments.slice(1).join('/')
+      const hashRoute = routePath ? '#/' + routePath : '#/'
+      const redirectPath =
+        currentLocation.protocol +
+        '//' +
+        currentLocation.hostname +
+        (currentLocation.port ? ':' + currentLocation.port : '') +
+        '/' +
+        repositoryName +
+        '/' +
+        hashRoute +
+        currentLocation.search
+
+      window.location.replace(redirectPath)
+    </script>
+  </head>
+  <body></body>
+</html>
