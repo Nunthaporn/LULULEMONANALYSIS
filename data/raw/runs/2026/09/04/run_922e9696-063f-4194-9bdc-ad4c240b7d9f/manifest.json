@@ -1,0 +1,18 @@
+{
+  "run_id": "922e9696-063f-4194-9bdc-ad4c240b7d9f",
+  "started_at": "2026-09-04T04:31:20.271545+00:00",
+  "finished_at": "2026-09-04T04:31:20.284161+00:00",
+  "source_adapter": {
+    "source_adapter": "lululemon_graphql",
+    "endpoint": "https://shop.lululemon.com/cne/graphql",
+    "locale": "en_US,en_CA",
+    "sort": "Rating:asc"
+  },
+  "products_attempted": 4,
+  "pages_requested": 0,
+  "reviews_seen": 0,
+  "new_reviews": 0,
+  "updated_reviews": 0,
+  "failures": [],
+  "schema_version": 1
+}

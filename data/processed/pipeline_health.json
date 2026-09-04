@@ -1,11 +1,11 @@
 {
-  "last_successful_run_at": "2026-07-10T09:48:27.533747+00:00",
+  "last_successful_run_at": "2026-09-04T04:49:14.284665+00:00",
   "last_run_status": "incremental_completed",
-  "data_freshness_hours": 595.33,
-  "total_reviews": 7029,
-  "new_reviews_last_run": 26,
+  "data_freshness_hours": 0.0,
+  "total_reviews": 0,
+  "new_reviews_last_run": 0,
   "updated_reviews_last_run": 0,
-  "low_star_reviews": 813,
+  "low_star_reviews": 0,
   "pending_analysis_count": 0,
   "failed_analysis_count": 0,
   "pending_image_count": 0,
@@ -15,6 +15,6 @@
   "http_403_last_30_runs": 0,
   "http_429_last_30_runs": 0,
   "schema_errors_last_30_runs": 0,
-  "successful_runs_last_30": 7,
+  "successful_runs_last_30": 3,
   "failed_runs_last_30": 0
 }

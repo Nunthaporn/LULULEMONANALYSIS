@@ -77,3 +77,15 @@ c4146f66-2b19-4ee8-a9d5-380dfd9be984,q123_pace_breaker_7_lined,"Q123 Pace Breake
 66839bc7-cdc5-45c8-be84-9efe1acfbb51,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,644,565,15,0,113,580,-64,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
 66839bc7-cdc5-45c8-be84-9efe1acfbb51,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",124,124,0,0,32,124,0,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
 66839bc7-cdc5-45c8-be84-9efe1acfbb51,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",945,903,4,0,44,907,-38,completed,"Stopped after consecutive no-change pages. Source uses Rating:asc sort, so incremental mode uses bounded reconciliation."
+a561ea1e-f29d-4898-923b-c2db13a05e19,define_jacket_nulu,Define Jacket Nulu,0,0,0,0,0,0,0,failed,Source returned HTTP 400 for the product request.
+a561ea1e-f29d-4898-923b-c2db13a05e19,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,failed,Source returned HTTP 400 for the product request.
+a561ea1e-f29d-4898-923b-c2db13a05e19,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,failed,Source returned HTTP 400 for the product request.
+a561ea1e-f29d-4898-923b-c2db13a05e19,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,failed,Source returned HTTP 400 for the product request.
+922e9696-063f-4194-9bdc-ad4c240b7d9f,define_jacket_nulu,Define Jacket Nulu,0,0,0,0,0,0,0,skipped_cooldown,Skipped due to cooldown until 2026-09-04T04:36:33.660978+00:00.
+922e9696-063f-4194-9bdc-ad4c240b7d9f,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,skipped_cooldown,Skipped due to cooldown until 2026-09-04T04:36:34.511430+00:00.
+922e9696-063f-4194-9bdc-ad4c240b7d9f,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,skipped_cooldown,Skipped due to cooldown until 2026-09-04T04:36:35.416697+00:00.
+922e9696-063f-4194-9bdc-ad4c240b7d9f,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,skipped_cooldown,Skipped due to cooldown until 2026-09-04T04:36:36.164043+00:00.
+68d2a63c-aa06-42ba-9e7b-debe4f814f69,define_jacket_nulu,Define Jacket Nulu,0,0,0,0,0,0,0,failed,Source returned HTTP 400 for the product request.
+68d2a63c-aa06-42ba-9e7b-debe4f814f69,sp25_sculpt_tank_ft,SP25 Sculpt Tank FT,0,0,0,0,0,0,0,failed,Source returned HTTP 400 for the product request.
+68d2a63c-aa06-42ba-9e7b-debe4f814f69,pace_breaker_short_7_linerless,"Pace Breaker Short 7"" Linerless",0,0,0,0,0,0,0,failed,Source returned HTTP 400 for the product request.
+68d2a63c-aa06-42ba-9e7b-debe4f814f69,q123_pace_breaker_7_lined,"Q123 Pace Breaker 7"" Lined",0,0,0,0,0,0,0,failed,Source returned HTTP 400 for the product request.
