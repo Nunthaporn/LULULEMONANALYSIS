@@ -1,5 +1,5 @@
 {
-  "last_successful_run_at": "2026-09-04T04:49:14.284665+00:00",
+  "last_successful_run_at": "2026-09-29T02:13:34.298234+00:00",
   "last_run_status": "incremental_completed",
   "data_freshness_hours": 0.0,
   "total_reviews": 0,
@@ -10,11 +10,11 @@
   "failed_analysis_count": 0,
   "pending_image_count": 0,
   "failed_image_count": 0,
-  "products_healthy": 4,
-  "products_unhealthy": 0,
+  "products_healthy": 0,
+  "products_unhealthy": 4,
   "http_403_last_30_runs": 0,
   "http_429_last_30_runs": 0,
   "schema_errors_last_30_runs": 0,
-  "successful_runs_last_30": 3,
+  "successful_runs_last_30": 4,
   "failed_runs_last_30": 0
 }

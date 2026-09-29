@@ -1,0 +1,35 @@
+{
+  "run_id": "965f8c78-3dd5-4911-b4c1-fa20ad8e74ab",
+  "started_at": "2026-09-29T02:13:32.549689+00:00",
+  "finished_at": "2026-09-29T02:13:34.295114+00:00",
+  "source_adapter": {
+    "source_adapter": "lululemon_graphql",
+    "endpoint": "https://shop.lululemon.com/cne/graphql",
+    "locale": "en_US,en_CA",
+    "sort": "Rating:asc"
+  },
+  "products_attempted": 4,
+  "pages_requested": 0,
+  "reviews_seen": 0,
+  "new_reviews": 0,
+  "updated_reviews": 0,
+  "failures": [
+    {
+      "product_id": "define_jacket_nulu",
+      "error": "Source returned HTTP 400 for the product request."
+    },
+    {
+      "product_id": "sp25_sculpt_tank_ft",
+      "error": "Source returned HTTP 400 for the product request."
+    },
+    {
+      "product_id": "pace_breaker_short_7_linerless",
+      "error": "Source returned HTTP 400 for the product request."
+    },
+    {
+      "product_id": "q123_pace_breaker_7_lined",
+      "error": "Source returned HTTP 400 for the product request."
+    }
+  ],
+  "schema_version": 1
+}
