@@ -10,7 +10,7 @@ from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
-from urllib.parse import urlsplit
+from urllib.parse import quote, urlsplit
 
 import requests
 
@@ -42,9 +42,13 @@ SCRAPE_FAILURES_CSV = PROCESSED_DIR / "scrape_failures.csv"
 GRAPHQL_ENDPOINT = "https://shop.lululemon.com/cne/graphql"
 DEFAULT_LOCALE = "en_US,en_CA"
 DEFAULT_SORT = "Rating:asc"
+DEFAULT_RECENT_SORT = "SubmissionTime:desc"
 DEFAULT_DELAY_SECONDS = 0.35
 DEFAULT_TIMEOUT_SECONDS = 60
 DEFAULT_MAX_ATTEMPTS = 5
+REVIEWS_API_ENDPOINT = "https://shop.lululemon.com/.uf-svc/v1/reviews/products/{product_name_id}"
+DEFAULT_PAGE_LIMIT = 6
+DEFAULT_COMMENTS_PER_REVIEW = 16
 LOW_STAR_RATINGS = {1, 2, 3}
 
 QUERY = """
@@ -603,6 +607,91 @@ def build_session() -> requests.Session:
     return requests.Session()
 
 
+def build_reviews_api_headers(product_url: str) -> dict[str, str]:
+    headers = build_headers(product_url)
+    headers.pop('content-type', None)
+    headers['x-lll-client'] = 'alpine-reviews-sdk'
+    headers['x-lll-locale'] = 'en-us'
+    return headers
+
+
+def build_reviews_api_params(
+    *,
+    offset: int,
+    ratings: list[int] | None = None,
+    locale: str = DEFAULT_LOCALE,
+    sort: str = DEFAULT_SORT,
+    limit: int = DEFAULT_PAGE_LIMIT,
+) -> dict[str, Any]:
+    params: dict[str, Any] = {
+        'page[limit]': limit,
+        'page[offset]': offset,
+        'filter[contentLocale]': locale,
+        'commentsPerReview': DEFAULT_COMMENTS_PER_REVIEW,
+        'sort': sort,
+    }
+    if ratings:
+        params['filter[rating]'] = ratings[0] if len(ratings) == 1 else ratings
+    return params
+
+
+def unwrap_reviews_api_response(payload: dict[str, Any]) -> list[dict[str, Any]]:
+    items = payload.get('data')
+    if not isinstance(items, list):
+        raise ValueError('Response did not include a data array.')
+
+    reviews: list[dict[str, Any]] = []
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        attributes = item.get('attributes')
+        if not isinstance(attributes, dict):
+            continue
+        reviews.append({**attributes, 'id': clean_text(item.get('id'))})
+    return reviews
+
+
+def _reviews_api_pagination(
+    payload: dict[str, Any],
+    *,
+    offset: int,
+    result_count: int,
+    requested_limit: int,
+) -> tuple[int, int, bool]:
+    meta = payload.get('meta') if isinstance(payload.get('meta'), dict) else {}
+    pagination = (
+        meta.get('pagination')
+        if isinstance(meta.get('pagination'), dict)
+        else meta.get('page')
+        if isinstance(meta.get('page'), dict)
+        else {}
+    )
+
+    total_results = safe_int(
+        payload.get('totalResults')
+        or meta.get('totalResults')
+        or meta.get('totalCount')
+        or meta.get('total')
+        or pagination.get('total')
+        or pagination.get('totalResults')
+    )
+    limit = safe_int(
+        pagination.get('limit') or meta.get('limit'),
+        requested_limit,
+    )
+    if limit <= 0:
+        limit = requested_limit
+
+    links = payload.get('links') if isinstance(payload.get('links'), dict) else {}
+    if 'next' in links:
+        has_more = bool(links.get('next'))
+    elif total_results > 0:
+        has_more = offset + result_count < total_results
+    else:
+        has_more = result_count >= limit
+    return total_results, limit, has_more
+
+
 def build_payload(
     *,
     product_name_id: str,
@@ -641,41 +730,58 @@ def fetch_reviews_page(
     sort: str = DEFAULT_SORT,
     timeout: int = DEFAULT_TIMEOUT_SECONDS,
 ) -> dict[str, Any]:
-    payload = build_payload(
-        product_name_id=product["productNameId"],
+    endpoint = REVIEWS_API_ENDPOINT.format(
+        product_name_id=quote(product["productNameId"], safe="_-"),
+    )
+    limit = DEFAULT_PAGE_LIMIT
+    params = build_reviews_api_params(
         offset=offset,
         ratings=ratings,
         locale=locale,
         sort=sort,
+        limit=limit,
     )
-    headers = build_headers(product["product_url"])
+    headers = build_reviews_api_headers(product["product_url"])
     headers["x-lll-ecom-correlation-id"] = str(uuid.uuid4()).upper()
     headers["x-lll-request-correlation-id"] = str(uuid.uuid4())
-    body = serialize_graphql_payload(payload)
 
     for attempt in range(1, DEFAULT_MAX_ATTEMPTS + 1):
         try:
-            response = session.post(
-                GRAPHQL_ENDPOINT,
+            response = session.get(
+                endpoint,
                 headers=headers,
-                data=body,
+                params=params,
                 timeout=timeout,
             )
-            if response.status_code == 403:
+            if response.status_code in {400, 401, 403, 404}:
+                diagnostic = clean_text(response.text)[:500]
                 raise RuntimeError(
-                    "Received HTTP 403 from lululemon GraphQL. Public access may be temporarily blocked."
+                    f"Reviews API returned HTTP {response.status_code}: {diagnostic or 'empty response'}"
                 )
             response.raise_for_status()
-            body = response.json()
-            if body.get("errors"):
-                raise RuntimeError(json.dumps(body["errors"], ensure_ascii=True))
-            data = body.get("data", {}).get("getReviews")
-            if not isinstance(data, dict):
-                raise RuntimeError("Response did not include data.getReviews.")
-            if data.get("hasErrors") and data.get("errors"):
-                raise RuntimeError(json.dumps(data["errors"], ensure_ascii=True))
-            return data
+            response_payload = response.json()
+            if not isinstance(response_payload, dict):
+                raise ValueError("Reviews API response was not a JSON object.")
+
+            results = unwrap_reviews_api_response(response_payload)
+            total_results, response_limit, has_more = _reviews_api_pagination(
+                response_payload,
+                offset=offset,
+                result_count=len(results),
+                requested_limit=limit,
+            )
+            return {
+                "results": results,
+                "totalResults": total_results,
+                "hasAdditionalReviews": has_more,
+                "limit": response_limit,
+                "offset": offset,
+            }
         except (requests.RequestException, ValueError, RuntimeError) as exc:
+            if isinstance(exc, RuntimeError) and "Reviews API returned HTTP" in str(exc):
+                raise RuntimeError(
+                    f"{product['product_id']} request failed at offset {offset}: {exc}"
+                ) from exc
             if attempt == DEFAULT_MAX_ATTEMPTS:
                 raise RuntimeError(
                     f"{product['product_id']} request failed at offset {offset}: {exc}"
@@ -706,11 +812,13 @@ def fetch_all_reviews_for_product(
     sort: str = DEFAULT_SORT,
     timeout: int = DEFAULT_TIMEOUT_SECONDS,
     delay: float = DEFAULT_DELAY_SECONDS,
+    stop_review_ids: set[str] | None = None,
 ) -> tuple[list[dict[str, Any]], int]:
     all_reviews: list[dict[str, Any]] = []
     seen: set[str] = set()
     offset = 0
     total_results = 0
+    known_ids = stop_review_ids or set()
 
     while True:
         page = fetch_reviews_page(
@@ -732,10 +840,18 @@ def fetch_all_reviews_for_product(
             break
 
         new_count = 0
+        reached_known_review = False
         for review in results:
             if not isinstance(review, dict):
                 continue
             key = review_key(review)
+            if key in known_ids:
+                reached_known_review = True
+                log(
+                    f"{product['product_id']}: reached existing review {key} "
+                    f"at offset {offset}; stopping incremental collection."
+                )
+                break
             if key in seen:
                 continue
             seen.add(key)
@@ -749,6 +865,8 @@ def fetch_all_reviews_for_product(
         )
 
         if not page.get("hasAdditionalReviews"):
+            break
+        if reached_known_review:
             break
         if new_count == 0:
             log(f"{product['product_id']}: duplicate-only page at offset {offset}; stopping.")

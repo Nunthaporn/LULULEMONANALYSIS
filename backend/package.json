@@ -9,7 +9,13 @@
     "import": "node scripts/importPipelineData.js",
     "db:migrate": "node db/runMigrations.js",
     "db:validate": "node scripts/validatePostgresMigration.js",
-    "test": "node --test tests/*.test.js"
+    "test": "node --test tests/*.test.js",
+    "import:json": "node json-importers/all.js",
+    "import:json:products": "node json-importers/products.js",
+    "import:json:reviews": "node json-importers/reviews.js",
+    "import:json:reviews:asia": "node json-importers/reviews_asia.js",
+    "import:json:reviews:australia": "node json-importers/reviews_australia.js",
+    "import:json:reviews:new-zealand": "node json-importers/reviews_new_zealand.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
