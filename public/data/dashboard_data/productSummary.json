@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "product_name": "Define Jacket Nulu",
+    "product_id": "define_jacket_nulu",
+    "productNameId": "Define_Jacket_Nulu",
+    "category": "Jackets",
+    "total_reviews": 568,
+    "low_star_reviews": 568,
+    "one_star_reviews": 246,
+    "two_star_reviews": 118,
+    "three_star_reviews": 204,
+    "reviews_with_images": 96,
+    "total_images": 187,
+    "average_rating": 1.93,
+    "top_complaint_theme": "Sizing & Fit",
+    "top_complaint_share": 41.7
+  },
+  {
+    "product_name": "Pace Breaker Short 7\" Linerless",
+    "product_id": "pace_breaker_short_7_linerless",
+    "productNameId": "Pace_Breaker_Short_Linerless_7",
+    "category": "Mens Shorts",
+    "total_reviews": 15,
+    "low_star_reviews": 15,
+    "one_star_reviews": 2,
+    "two_star_reviews": 7,
+    "three_star_reviews": 6,
+    "reviews_with_images": 0,
+    "total_images": 0,
+    "average_rating": 2.27,
+    "top_complaint_theme": "Fabric & Material Quality",
+    "top_complaint_share": 26.7
+  },
+  {
+    "product_name": "Q123 Pace Breaker 7\" Lined",
+    "product_id": "q123_pace_breaker_7_lined",
+    "productNameId": "Pace_Breaker_Short_NF_7_Lined_Update",
+    "category": "Mens Shorts",
+    "total_reviews": 178,
+    "low_star_reviews": 178,
+    "one_star_reviews": 98,
+    "two_star_reviews": 35,
+    "three_star_reviews": 45,
+    "reviews_with_images": 19,
+    "total_images": 29,
+    "average_rating": 1.7,
+    "top_complaint_theme": "Sizing & Fit",
+    "top_complaint_share": 48.9
+  },
+  {
+    "product_name": "SP25 Sculpt Tank FT",
+    "product_id": "sp25_sculpt_tank_ft",
+    "productNameId": "Sculpt_Tank_Top",
+    "category": "Women Tanks",
+    "total_reviews": 101,
+    "low_star_reviews": 101,
+    "one_star_reviews": 32,
+    "two_star_reviews": 27,
+    "three_star_reviews": 42,
+    "reviews_with_images": 7,
+    "total_images": 17,
+    "average_rating": 2.1,
+    "top_complaint_theme": "Sizing & Fit",
+    "top_complaint_share": 54.5
+  }
+]
