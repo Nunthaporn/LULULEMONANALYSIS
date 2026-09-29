@@ -1,16 +1,20 @@
 import { DASHBOARD_DATA_PATH, DEFAULT_REGION, HIDDEN_PRODUCT_IDS, REGION_OPTIONS } from './constants'
 
 const cache = new Map()
+const dataVersion = import.meta.env.VITE_DATA_VERSION || 'development'
 
 function stripBom(text) {
   return text.charCodeAt(0) === 0xfeff ? text.slice(1) : text
 }
 
 function fetchJson(url) {
-  return fetch(url)
+  const separator = url.includes('?') ? '&' : '?'
+  const versionedUrl = `${url}${separator}v=${encodeURIComponent(dataVersion)}`
+
+  return fetch(versionedUrl, { cache: 'no-cache' })
     .then((response) => {
       if (!response.ok) {
-        throw new Error(`Failed to fetch ${url}`)
+        throw new Error(`Failed to fetch ${versionedUrl}`)
       }
 
       return response.text()

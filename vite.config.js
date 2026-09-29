@@ -6,4 +6,7 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig(({ command }) => ({
   base: command === 'serve' ? '/' : '/LULULEMONANALYSIS/',
   plugins: [react(), tailwindcss()],
+  define: {
+    'import.meta.env.VITE_DATA_VERSION': JSON.stringify(Date.now().toString()),
+  },
 }))
